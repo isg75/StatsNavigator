@@ -179,7 +179,7 @@ ideas are understood.
   Learn how to distinguish between statistical evidence and practical importance when interpreting the results of hypothesis tests.
 
 - [Equivalence and Non-Inferiority](concepts/equivalence-and-non-inferiority.md) 
-  Learn how to
+  Learn how equivalence and non-inferiority tests provide evidence that a difference is small enough to be practically acceptable. 
 
 *StatNavigator is under active development. Future additions will include
 assumption checks, non-parametric methods, regression models, categorical
